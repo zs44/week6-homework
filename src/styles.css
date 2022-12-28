@@ -1,0 +1,31 @@
+.divclass{
+  height: 220px;
+  
+}
+h6{
+  padding-left: 10px;
+}
+h5{
+  text-align: center;
+  padding-bottom: 15px;
+}
+h4{
+  text-align: left;
+}
+
+.rowclass{
+  margin-top: 140px;
+}
+
+
+.h4Degree{
+  padding: 0;
+  display: inline;
+  margin: 0;
+}
+.currentDate{
+  padding: 0;
+  margin: 0;
+    font-size: 16px;
+
+}
